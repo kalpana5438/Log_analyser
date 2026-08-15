@@ -1,0 +1,18 @@
+[2026-08-15 10:00:01] 192.168.1.100 SUCCESS user1 Login successful from local intranet
+[2026-08-15 10:01:05] 192.168.1.102 SUCCESS kalpana User dashboard session initiated
+[2026-08-15 10:05:12] 198.51.100.12 FAILED root Invalid credentials
+[2026-08-15 10:05:15] 198.51.100.12 FAILED admin Invalid credentials
+[2026-08-15 10:10:00] 192.168.1.103 SUCCESS user2 Session authenticated
+[2026-08-15 10:15:20] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:15:22] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:15:24] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:15:27] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:15:29] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:15:32] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:15:35] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:15:38] 203.0.113.45 FAILED administrator Incorrect password
+[2026-08-15 10:20:00] 198.51.100.50 FAILED user1 Wrong security answer
+[2026-08-15 10:20:05] 198.51.100.50 FAILED user1 Incorrect PIN
+[2026-08-15 10:20:10] 198.51.100.50 FAILED user1 Incorrect password
+[2026-08-15 10:20:15] 198.51.100.50 SUCCESS user1 Second-factor authentication verified
+[2026-08-15 10:25:30] 192.168.1.102 SUCCESS kalpana Profile updated
